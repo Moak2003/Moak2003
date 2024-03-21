@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manas Oak</h1>
 <h3 align="center">:A Passionate Software Developer from the Incredible India."</h3>
 
-![Your GIF]([https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif])
+![Your GIF]([URL_to_your_gif](https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif))
 
 
 
