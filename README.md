@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Manas Oak</h1>
 <h3 align="center">:A Passionate Software Developer from the Incredible India."</h3>
 
+<center>
+
 ![Your GIF](https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
 
+</center>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moak2003&label=Profile%20views&color=0e75b6&style=flat" alt="moak2003" /> </p>
